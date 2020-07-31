@@ -8,8 +8,9 @@ Due to COVID-19 Issues the Ultrasonic Sensor is replaced with DHT Sensor.
 2. DHT
 
 # Software Requirements
--> Arduino
--> ThingSpeak
+1. Arduino
+2. ThingSpeak
 
 This Project has been developed in Unofficial Collaboration with Aryan Sarkar, Shruti Rawal, Reecha Singh and me for Smart India Hackathon 2020
 ![Alt](https://github.com/amandewatnitrr/Fuel-Tank-Level-Detector-IoT-Android-Solution/blob/master/IMG20200419155607.jpg)
+![Alt](https://github.com/amandewatnitrr/Fuel-Tank-Level-Detector-IoT-Android-Solution/blob/master/IMG20200419155616.jpg)
